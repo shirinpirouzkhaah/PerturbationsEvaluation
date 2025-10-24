@@ -1,0 +1,7 @@
+SingleIfManipulator.class
+ReorderIndLines.class
+IfToSwitchTransformer.class
+IfManipulator$1.class
+JavaCodeAnalyzer.class
+ExceptionAdder.class
+IfManipulator.class

@@ -1,0 +1,7 @@
+~/Desktop/CounterfactualTasks/CFGenerationFramework2/src/main/java/ExceptionAdder.java
+~/Desktop/CounterfactualTasks/CFGenerationFramework2/src/main/java/IfManipulator.java
+~/Desktop/CounterfactualTasks/CFGenerationFramework2/src/main/java/IfToSwitchTransformer.java
+~/Desktop/CounterfactualTasks/CFGenerationFramework2/src/main/java/JavaCodeAnalyzer.java
+~/Desktop/CounterfactualTasks/CFGenerationFramework2/src/main/java/ReorderIndLines.java
+~/Desktop/CounterfactualTasks/CFGenerationFramework2/src/main/java/SingleIfManipulator.java
+~/Desktop/CounterfactualTasks/CFGenerationFramework2/src/main/java/SingleUseVariableDetector.java

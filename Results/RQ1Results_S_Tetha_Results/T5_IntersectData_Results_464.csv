@@ -1,0 +1,10 @@
+Item,EXM,CodeBLEU,Coverage,Relative_Edit_Error,Edit_Removed_Ratio,Edit_Added_Ratio
+IfElseSwap,0.667,0.68,0.839,0.261,0.283,0.066
+DeadException,0.853,0.877,0.955,0.409,0.396,0.082
+DeadVariable,0.778,0.809,0.963,0.568,0.529,0.048
+TryNcatchWrapper,0.89,0.902,0.962,0.189,0.238,0.03
+ReturnViaVariable,0.667,0.693,0.96,0.609,0.584,0.228
+ShuffleNames,0.866,0.878,0.912,0.11,0.097,0.046
+RandomNames,0.832,0.841,0.899,0.274,0.291,0.042
+IndependentLineSwap,0.889,0.91,0.889,0.0,0.0,0.0
+defUseBreak,0.669,0.74,0.877,0.391,0.355,0.198
